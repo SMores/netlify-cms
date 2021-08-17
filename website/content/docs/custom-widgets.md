@@ -188,7 +188,17 @@ CMS.registerEditorComponent({
 
 **Result:**
 
-![youtube-widget](/img/screen shot 2018-01-05 at 4.25.07 pm.png)
+<pre>
+  <code>
+&lt;details&gt;
+  &lt;summary&gt;Expand to read more!&lt;/summary&gt;
+
+  Here's a longer version of this collapsible note!
+
+&lt;/details&gt;
+  </code>
+</pre>
+
 
 ## Advanced field validation
 
